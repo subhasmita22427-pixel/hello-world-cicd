@@ -1,3 +1,4 @@
+# Exercise 9: Verify CI pipeline on Pull Request
 # Exercise 6: Add personalized welcome message
 
 def hello_world():
